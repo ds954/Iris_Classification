@@ -8,7 +8,7 @@ This project focuses on building a Machine Learning model to classify iris flowe
 
 ## Features
 
-- **Data Loading**: Load the Iris dataset from scikit-learn.
+- **Data Loading**: Load the Iris dataset from a CSV file in the GitHub repository.
 - **Data Preprocessing**: Split the dataset into training and testing sets.
 - **Model Training**: Train a Gaussian Naive Bayes model.
 - **Model Evaluation**: Evaluate the model using metrics such as accuracy score.
